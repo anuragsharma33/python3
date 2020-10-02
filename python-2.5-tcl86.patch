@@ -1,6 +1,6 @@
 --- Python-2.6/setup.py	2008-09-29 17:15:45.000000000 -0700
 +++ Python-2.6/setup.py.new	2008-10-16 09:42:45.000000000 -0700
-@@ -1518,7 +1518,7 @@
+@@ -1518,7 +1518,7 ,7 @@
          # The versions with dots are used on Unix, and the versions without
          # dots on Windows, for detection by cygwin.
          tcllib = tklib = tcl_includes = tk_includes = None
